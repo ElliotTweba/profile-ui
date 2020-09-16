@@ -1,0 +1,14 @@
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\bin\Debug\netcoreapp2.2\ProfileUser.deps.json
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\bin\Debug\netcoreapp2.2\ProfileUser.runtimeconfig.json
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\bin\Debug\netcoreapp2.2\ProfileUser.runtimeconfig.dev.json
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\bin\Debug\netcoreapp2.2\ProfileUser.dll
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\bin\Debug\netcoreapp2.2\ProfileUser.pdb
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.csprojResolveAssemblyReference.cache
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.RazorAssemblyInfo.cache
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.RazorAssemblyInfo.cs
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.AssemblyInfoInputs.cache
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.AssemblyInfo.cs
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.RazorTargetAssemblyInfo.cache
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.dll
+C:\Users\nico\source\repos\ProfileUser\ProfileUser\obj\Debug\netcoreapp2.2\ProfileUser.pdb
